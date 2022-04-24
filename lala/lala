@@ -1,0 +1,4 @@
+new1 = 10
+new2 = 12
+sum = new1 + new2
+print ("sum of two numbers")
